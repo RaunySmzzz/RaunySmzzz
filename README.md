@@ -55,16 +55,6 @@ Status     : Always evolving...
 ![Senior](https://img.shields.io/badge/Senior_ERP-0D1117?style=for-the-badge&logoColor=7CFC00)
 ![PLSQL](https://img.shields.io/badge/Oracle_PL%2FSQL-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000)
 
-
-## `> connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF)](COLOQUE_SEU_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](COLOQUE_SEU_INSTAGRAM)
-
-</div>
-
 ---
 
 <div align="center">
