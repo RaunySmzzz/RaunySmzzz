@@ -59,9 +59,9 @@ Status     : Always evolving...
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaunySmzzz&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=00E5FF&text_color=C9D1D9)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=RaunySmzzz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7CFC00&icon_color=00E5FF&text_color=C9D1D9"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaunySmzzz&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunySmzzz&layout=compact&hide_border=true&bg_color=0D1117&title_color=7CFC00&text_color=C9D1D9"/>
 
 </div>
 
